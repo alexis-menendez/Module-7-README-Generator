@@ -40,9 +40,42 @@ This project is licensed under the ${renderLicenseLink(license)}.`;
 }
 
 // TODO: Create a function to generate markdown for README
+// generate README markdown
 function generateMarkdown(data) {
   return `# ${data.title}
 
+${renderLicenseBadge(data.license)}
+
+## Description
+${data.description}
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+${data.license !== "None" ? "- [License](#license)" : ""}
+
+## Installation
+${data.installation}
+
+## Usage
+${data.usage}
+
+## Contributing
+${data.contributing}
+
+## Tests
+${data.tests}
+
+## Questions
+If you have any questions, feel free to contact me:
+
+- **GitHub**: [alexis-menendez](https://github.com/alexis-menendez)
+- **Email**: [alexis.menendez@austincc.edu](mailto:alexis.menendez@austincc.edu)
+
+${renderLicenseSection(data.license)}
 `;
 }
 

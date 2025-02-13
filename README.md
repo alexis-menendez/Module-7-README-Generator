@@ -36,8 +36,8 @@ The README Generator is a command-line application that dynamically generates a 
 1. Run the application using command:
 	* node index.js
 2. Answer the prompted questions to generate your README file.
-3. After answering all prompts, the program will generate a README.md file in your project directory.
-	* Any files named `README.md` in the root folder will be overwritten.
+3. After answering all prompts, the program will generate a `README.md` file in your project directory.
+	* Any existing files named `README.md` in the root folder will be overwritten.
 
 
 ## Walkthrough Video

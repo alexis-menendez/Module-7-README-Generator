@@ -1,16 +1,16 @@
-#README Generator
+#README Generator#
 
-##Description
+##Description##
 
 The README Generator is a command-line application that dynamically generates a high-quality, professional `README.md` file based on user input. By streamlining the README creation process, this tool enables developers to focus on building their projects rather than formatting documentation.  
 
-###Features:
+###Features:###
 - Prompts users for project details such as title, description, installation, usage, license, and contributors.
 - Dynamically generates a well-structured README file.
 - Supports multiple license options with an automatically generated badge and relevant license section.
 - Provides a table of contents with clickable links for easy navigation.
 
-##Table of Contents
+##Table of Contents##
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,7 +19,7 @@ The README Generator is a command-line application that dynamically generates a 
 - [Tests](#tests)
 - [Questions](#questions)
 
-##Installation
+##Installation##
 
 1. Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 
@@ -38,7 +38,7 @@ The README Generator is a command-line application that dynamically generates a 
       npm install inquirer
    
 
-##Usage
+##Usage##
 
 1. Run the application using comand:
    node index.js
@@ -51,7 +51,7 @@ The README Generator is a command-line application that dynamically generates a 
 
 https://drive.google.com/file/d/14fNHr6ljklKIVxZLGjrQYazJVIQ5U0Rg/view?usp=sharing
 
-##Contributing
+##Contributing##
 
 We welcome contributions! To contribute:
 
@@ -60,11 +60,11 @@ We welcome contributions! To contribute:
 3. Make your changes and commit them with descriptive messages.
 4. Push your changes and create a pull request.
 
-##Tests
+##Tests##
 
 Currently, no automated tests are available for this project
 
-##Contact
+##Contact##
 
 If you have any questions, feel free to contact me:
 

@@ -17,6 +17,7 @@ The README Generator is a command-line application that dynamically generates a 
 * [Walkthrough Video](#walkthrough-video)
 * [Contributing](#contributing)
 * [Tests](#tests)
+* [Documentation](#documentation)
 * [Questions](#questions)
 
 
@@ -56,6 +57,15 @@ We welcome contributions! To contribute:
 ## Tests
 
 There are currently no automated tests for this project
+
+## Documentation
+
+* [Project Repository](https://github.com/alexis-menendez/README.generator)
+
+## Acknowledgements
+
+* I used Github Copilot to help me write the code for this project, primarily its suggestive text feature which enabled me to write code faster.
+* I also used ChatGPT to review my completed project and offer suggestions for improvement as well as assitance debugging my code when I encountered some syntax errors that I was unable to locate on my own.
 
 ## Contact
 

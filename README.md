@@ -29,7 +29,7 @@ The README Generator is a command-line application that dynamically generates a 
 	* cd path/to/your/project-directory
 4. Install Inquirer:
 	* Run the following command to install Inquirer:
-	  npm install inquirer
+	  * npm install inquirer
    
 ## Usage
 

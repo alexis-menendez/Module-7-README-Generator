@@ -24,10 +24,10 @@ The README Generator is a command-line application that dynamically generates a 
 
 1. Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 2. Clone this repository to your local machine:
-	* https://github.com/alexis-menendez/README.generator
-3. Navigate to the project directory:
+	* [README Generator]([https://drive.google.com/file/d/14fNHr6ljklKIVxZLGjrQYazJVIQ5U0Rg/view?usp=sharing](https://github.com/alexis-menendez/README.generator))
+4. Navigate to the project directory:
 	* cd path/to/your/project-directory
-4. Install Dependencies:
+5. Install Dependencies:
 	* Run the following command to install Inquirer:
 	  * npm install inquirer
    

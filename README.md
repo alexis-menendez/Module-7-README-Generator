@@ -27,7 +27,7 @@ The README Generator is a command-line application that dynamically generates a 
 	* https://github.com/alexis-menendez/README.generator
 3. Navigate to the project directory:
 	* cd path/to/your/project-directory
-4. Install Inquirer:
+4. Install Dependencies:
 	* Run the following command to install Inquirer:
 	  * npm install inquirer
    

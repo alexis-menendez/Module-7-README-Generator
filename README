@@ -25,7 +25,7 @@ The README Generator is a command-line application that dynamically generates a 
 
 2. Clone this repository to your local machine:
 
-   git clone [https://github.com/your-username/professional-readme-generator.git](https://github.com/alexis-menendez/README.generator)
+   git clone https://github.com/alexis-menendez/README.generator
 
 3. Navigate to the project directory:
   

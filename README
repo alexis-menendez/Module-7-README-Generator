@@ -1,16 +1,16 @@
-# README Generator
+#README Generator
 
-## Description
+##Description
 
 The README Generator is a command-line application that dynamically generates a high-quality, professional `README.md` file based on user input. By streamlining the README creation process, this tool enables developers to focus on building their projects rather than formatting documentation.  
 
-### Features:
+###Features:
 - Prompts users for project details such as title, description, installation, usage, license, and contributors.
 - Dynamically generates a well-structured README file.
 - Supports multiple license options with an automatically generated badge and relevant license section.
 - Provides a table of contents with clickable links for easy navigation.
 
-## Table of Contents
+##Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,7 +19,7 @@ The README Generator is a command-line application that dynamically generates a 
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Installation
+##Installation
 
 1. Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 
@@ -27,23 +27,31 @@ The README Generator is a command-line application that dynamically generates a 
 
    git clone [https://github.com/your-username/professional-readme-generator.git](https://github.com/alexis-menendez/README.generator)
 
-3. Install dependencies:
+3. Navigate to the project directory:
+  
+   cd /c/Users/YourName/projects/readme-generator
 
+   Make sure to replace YourName with your actual username.
 
-## Usage
+4. Install Inquirer:
+   Run the following command to install Inquirer:
+      npm install inquirer
+   
 
-1. Run the application using:
-node index.js
+##Usage
+
+1. Run the application using comand:
+   node index.js
 
 2. Answer the prompted questions to generate your README file.
 
 3. Once all inputs are provided, a README.md file will be created in your project directory. Any files named `README.md` in the root folder will be overwritten.
 
-## Walkthrough Video
+##Walkthrough Video
 
 ![Watch the video][(https://www.youtube.com/watch?v=your-video-id)][Walkthrough Video Link]
 
-## Contributing
+##Contributing
 
 We welcome contributions! To contribute:
 
@@ -52,15 +60,15 @@ We welcome contributions! To contribute:
 3. Make your changes and commit them with descriptive messages.
 4. Push your changes and create a pull request.
 
-## Tests
+##Tests
 
 Currently, no automated tests are available for this project
 
-## Contact
+##Contact
 
 If you have any questions, feel free to contact me:
 
-- **GitHub**: [alexis-menendez](https://github.com/alexis-menendez)
-- **Email**: [alexis.menendez@austincc.edu](mailto:alexis.menendez@austincc.edu)
+*  **GitHub**: [alexis-menendez](https://github.com/alexis-menendez)
+*  **Email**: [alexis.menendez@austincc.edu](mailto:alexis.menendez@austincc.edu)
 
 [def]: https://drive.google.com/file/d/14fNHr6ljklKIVxZLGjrQYazJVIQ5U0Rg/view?usp=sharing

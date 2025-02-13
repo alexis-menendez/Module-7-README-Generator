@@ -65,7 +65,9 @@ There are currently no automated tests for this project
 ## Acknowledgements
 
 * I used Github Copilot to help me write the code for this project, primarily its suggestive text feature which enabled me to write code faster.
-* I also used ChatGPT to review my completed project and offer suggestions for improvement as well as assitance debugging my code when I encountered some syntax errors that I was unable to locate on my own. The commits will reflect this, however, I am happy to provide transcripts of the conversation with ChatGPT upon request.
+* I also used ChatGPT to:
+  	* Provide assitance debugging my code when I encountered some syntax errors that I was unable to locate on my own. The commits will reflect this, however, I am happy to provide transcripts of the conversation with ChatGPT upon request.
+  	* Review my completed project and offer suggestions for improvement
 
 ## Contact
 

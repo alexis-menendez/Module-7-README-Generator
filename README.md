@@ -26,8 +26,7 @@ The README Generator is a command-line application that dynamically generates a 
 2. Clone this repository to your local machine:
 	* https://github.com/alexis-menendez/README.generator
 3. Navigate to the project directory:
-	* cd /c/Users/YourName/projects/readme-generator
-	* Make sure to replace YourName with your actual username.
+	* cd path/to/your/project-directory
 4. Install Inquirer:
 	* Run the following command to install Inquirer:
 	  npm install inquirer
@@ -37,12 +36,12 @@ The README Generator is a command-line application that dynamically generates a 
 1. Run the application using command:
 	* node index.js
 2. Answer the prompted questions to generate your README file.
-3. Once all inputs are provided, a README.md file will be created in your project directory.
+3. After answering all prompts, the program will generate a README.md file in your project directory.
 	* Any files named `README.md` in the root folder will be overwritten.
 
 
 ## Walkthrough Video
-* https://drive.google.com/file/d/14fNHr6ljklKIVxZLGjrQYazJVIQ5U0Rg/view?usp=sharing
+* [Walkthrough Video](https://drive.google.com/file/d/14fNHr6ljklKIVxZLGjrQYazJVIQ5U0Rg/view?usp=sharing)
 
 ## Contributing
 
@@ -56,7 +55,7 @@ We welcome contributions! To contribute:
 
 ## Tests
 
-Currently, no automated tests are available for this project
+There are currently no automated tests for this project
 
 ## Contact
 

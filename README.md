@@ -66,6 +66,7 @@ There are currently no automated tests for this project
 ## Documentation
 
 * [Project Repository](https://github.com/alexis-menendez/README.generator)
+* [Walkthrough Video](https://drive.google.com/file/d/14fNHr6ljklKIVxZLGjrQYazJVIQ5U0Rg/view?usp=sharing)
 
 ## Acknowledgements
 
